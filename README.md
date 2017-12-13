@@ -1,2 +1,6 @@
+
+
 # CPAN-Term-ANSIAnimation
-Source control for CPAN's &lt;a href='search.cpan.org/~oducs/'>Term::ANSIAnimation&lt;/a> (A Perl Module)
+Source control for CPAN's <a href='search.cpan.org/~oducs/'>Term::ANSIAnimation</a> (A Perl Module)
+
+
